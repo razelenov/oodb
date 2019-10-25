@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shop>
+    <name>ExampleName</name>
+    <title>ExampleTitle</title>
+    <carts/>
+    <carts/>
+    <carts/>
+    <categories>
+        <name>Телефоны</name>
+    </categories>
+    <categories>
+        <name>Принтеры</name>
+    </categories>
+    <categories>
+        <name>Кондиционеры</name>
+    </categories>
+    <items>
+        <name>Nokia</name>
+        <price>144.23</price>
+        <info>Описание1</info>
+    </items>
+    <items>
+        <name>Sony Xperia Z1</name>
+        <price>100.99</price>
+        <info>Описание2</info>
+    </items>
+    <items>
+        <name>Canon Pixma 2B</name>
+        <price>10003.34</price>
+        <info>Описание3</info>
+    </items>
+    <items>
+        <name>SkyAir</name>
+        <price>123.55</price>
+        <info>Описание4</info>
+    </items>
+    <orders>
+        <time>Thu Oct 17 19:58:21 MSK 2019</time>
+        <status>Accept</status>
+        <items>
+            <name>Nokia</name>
+            <price>144.23</price>
+            <info>Описание1</info>
+        </items>
+        <user>
+            <email>mail@mail.to</email>
+            <password>123456</password>
+            <address>Ret Street, 56</address>
+            <isAdmin>false</isAdmin>
+            <cart/>
+        </user>
+    </orders>
+    <users>
+        <email>mail@mail.to</email>
+        <password>123456</password>
+        <address>Ret Street, 56</address>
+        <isAdmin>false</isAdmin>
+        <cart/>
+    </users>
+    <users>
+        <email>example@yandex.ru</email>
+        <password>pass124</password>
+        <address>Example 45, 34</address>
+        <isAdmin>false</isAdmin>
+        <cart/>
+    </users>
+    <users>
+        <email>admin@shop.biz</email>
+        <password>Pa$$w0rD!</password>
+        <address>None</address>
+        <isAdmin>true</isAdmin>
+        <cart/>
+    </users>
+</shop>
