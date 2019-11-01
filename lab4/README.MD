@@ -6,10 +6,9 @@
 
 **Пример лога:**
 
-[ Fri Nov 01 09:00:23 MSK 2019 ] Сохранение в БД
-
- Time SaveToDB() - JSON:  46400 нс.
- Time SaveToDB() - JSONB: 2700 нс.
+***[ Fri Nov 01 09:00:23 MSK 2019 ] Сохранение в БД***
+Time SaveToDB() - JSON:  46400 нс.
+Time SaveToDB() - JSONB: 2700 нс.
 
 [ Fri Nov 01 09:00:23 MSK 2019 ] Считывание из БД
 
