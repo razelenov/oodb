@@ -22,3 +22,25 @@
 ***[ Fri Nov 01 09:00:23 MSK 2019 ] Сортировка по ASC***
 + Time sortByASC() - JSON:  4216800 нс.
 + Time sortByASC() - JSONB: 1779400 нс.
+
+***JSON:***
++"1ExampleName"
++"EA Shop"
++"ExampleName"
++"ExampleName"
++"ExampleName"
++"ExampleName"
++"ExampleToName"
++"Name"
++"Shop"
+
+***JSONB:***
++"1ExampleName"
++"EA Shop"
++"ExampleName"
++"ExampleName"
++"ExampleName"
++"ExampleName"
++"ExampleToName"
++"Name"
++"Shop"
