@@ -10,18 +10,15 @@
 + Time SaveToDB() - JSON:  46400 нс.
 + Time SaveToDB() - JSONB: 2700 нс.
 
-[ Fri Nov 01 09:00:23 MSK 2019 ] Считывание из БД
+***[ Fri Nov 01 09:00:23 MSK 2019 ] Считывание из БД***
++ Time loadFromDB() - JSON:  5605200 нс.
++ Time loadFromDB() - JSONB: 1370700 нс.
 
- Time loadFromDB() - JSON:  5605200 нс.
- Time loadFromDB() - JSONB: 1370700 нс.
+***[ Fri Nov 01 09:00:23 MSK 2019 ] Поиск в БД***
++ Time searchInDB() - JSON:  1773100 нс.
++ Time searchInDB() - JSONB: 1515500 нс.
++ Поле 'name' содержит: "ExampleName"
 
-[ Fri Nov 01 09:00:23 MSK 2019 ] Поиск в БД
-
- Time searchInDB() - JSON:  1773100 нс.
- Time searchInDB() - JSONB: 1515500 нс.
- Поле 'name' содержит: "ExampleName"
-
-[ Fri Nov 01 09:00:23 MSK 2019 ] Сортировка по ASC
-
- Time sortByASC() - JSON:  4216800 нс.
- Time sortByASC() - JSONB: 1779400 нс.
+***[ Fri Nov 01 09:00:23 MSK 2019 ] Сортировка по ASC***
++ Time sortByASC() - JSON:  4216800 нс.
++ Time sortByASC() - JSONB: 1779400 нс.
